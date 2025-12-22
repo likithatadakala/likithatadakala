@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Likitha 👋
 
-<!--
-**likithatadakala/likithatadakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Machine Learning Engineer focused on building end-to-end ML and computer vision systems.
+My work includes model development, evaluation, and deployment using Python and deep learning frameworks.
 
-Here are some ideas to get you started:
+🔹 Focus Areas:
+- Computer Vision
+- Applied Machine Learning
+- Decision Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Tech Stack:
+Python, PyTorch, TensorFlow, OpenCV, SQL, AWS
+
+📌 Featured Projects:
+- VISION – Assistive Computer Vision System (IEEE)
+- SmartClean AI – Automated Data Cleaning Framework
+- Robust Deep Fake Detection using CNN
