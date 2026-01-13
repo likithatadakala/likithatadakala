@@ -1,6 +1,6 @@
 Hi, I’m Likitha 👋
 
-I’m a Machine Learning Engineer focused on building end-to-end ML and computer vision systems.
+I’m a AI/ML Engineer/ Data Scientist focused on building end-to-end ML and computer vision systems.
 My work includes model development, evaluation, and deployment using Python and deep learning frameworks.
 
 🔹 Focus Areas:
