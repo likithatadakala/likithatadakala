@@ -47,7 +47,8 @@ Pandas, NumPy, EDA, Power BI, Tableau, Matplotlib, Seaborn
 
 ## Education
 
-MS Computer Science (AI track), University of Toledo, 2024 to 2026, GPA 4.0
+MS Computer Science (AI), University of Toledo, 2024 to 2026
+
 B.Tech CSE (Data Science), Malla Reddy College of Engineering, 2020 to 2024
 
 ## Certifications
