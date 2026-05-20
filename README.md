@@ -62,9 +62,3 @@ B.Tech CSE (Data Science), Malla Reddy College of Engineering, 2020 to 2024
 - Email: likithatadakala@gmail.com
 
 ---
-
-![Likitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=likithatadakala&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likithatadakala&layout=compact&theme=tokyonight&hide_border=true)
-
----
